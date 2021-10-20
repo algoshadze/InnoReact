@@ -1,0 +1,40 @@
+{
+  "status": {
+    "code": 0
+  },
+
+  "banners": [
+    {
+      "img": "first-slide.jpg",
+      "title": "Быстрое и качественное обслуживание",
+      "description": "1",
+      "color": "yellow"
+    },
+    {
+      "img": "second-slide.jpeg",
+      "title": "Доступные цены",
+      "description": "2",
+      "color": "Lightgreen"
+    },
+    {
+      "img": "third-slide.jpg",
+      "title": "Вежливый персонал",
+      "description": "3",
+      "color": "Maroon"
+    },
+
+    {
+      "img": "fourth-slide.jpg",
+      "title": "Комфортная зона ожидания",
+      "description": "3",
+      "color": "blue"
+    },
+
+    {
+      "img": "fifth-slide.jpg",
+      "title": "Удобное время работы",
+      "description": "3",
+      "color": "Teal"
+    }
+  ]
+}

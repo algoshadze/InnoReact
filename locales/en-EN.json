@@ -1,0 +1,10 @@
+{
+
+  "app.welcome": "Welcome to",
+  "app.welcome.ending-en": "test app",
+  "app.description-1": "This is an app based on ReactTS+Webpack+IJL stack. It is the shell.",
+  "app.description-2": "The University project ",
+  "app.description-3": " will be based on that stack. This project has a free ",
+  "app.description-4": "copyright. The full project can be viewed here:",
+  "app.go": "Go"
+}
